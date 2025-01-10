@@ -27,5 +27,5 @@ The analysis provides actionable insights into Netflix's content distribution, a
 
 # Dashboard
 
-  <img src="./Netflix Dashboard.png" alt="Netflix Dashboard.png" width=""/> &nbsp;
+  <img src="./Netflix_dashboard.png" alt="Netflix_dashboard.png" width=""/> &nbsp;
 
