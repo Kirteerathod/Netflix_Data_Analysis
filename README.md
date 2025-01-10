@@ -23,7 +23,10 @@ This project involves analyzing Netflix data using Microsoft Excel to uncover tr
 4.Charts: Use Excel's charting tools to create compelling visualizations.
 
 # Outcomes
-The analysis provides actionable insights into Netflix's content distribution, audience preferences, and platform trends, making it a valuable resource for strategic decision-making and entertainment industry studies.
+The analysis provides actionable insights into Netflix's content distribution, audience preferences, and platform trends, making it a valuable resource for 
+strategic decision-making and entertainment industry studies.
+
+# Data Story
 
 # Dashboard
 
